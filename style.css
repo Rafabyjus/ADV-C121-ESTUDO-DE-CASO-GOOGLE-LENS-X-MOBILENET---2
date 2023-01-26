@@ -1,0 +1,11 @@
+.test_image_and_result{
+    float: none;
+    background: white;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px gray;
+}
+.mini_result{
+    font-size: 18px;
+}
